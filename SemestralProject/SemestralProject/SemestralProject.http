@@ -1,0 +1,6 @@
+@SemestralProject_HostAddress = http://localhost:5285
+
+GET {{SemestralProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
